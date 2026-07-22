@@ -1,4 +1,4 @@
-# Olá, eu sou LUIZBAKER77 👋
+# Olá, eu sou Luiz 👋
 
 Desenvolvo soluções práticas para automação, educação e gestão de serviços, transformando processos manuais em ferramentas simples de usar.
 

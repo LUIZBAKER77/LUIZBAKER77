@@ -14,15 +14,12 @@ Desenvolvo soluções práticas para automação, educação e gestão de servi�
 
 `Python` · `JavaScript` · `React` · `Vite` · `Firebase` · `Kotlin` · `Android` · `ADB` · `GitHub`
 
-## Projetos em destaque
+## Projeto em destaque
 
 ### [Gestor Escolar](https://github.com/LUIZBAKER77/Gestor-escolar)
 
 Solução para administração e configuração de tablets escolares, com modo aluno, controle administrativo e ferramenta gráfica para Windows.
 
-### [GOAT Detailer](https://github.com/LUIZBAKER77/goat-detailer)
-
-Aplicação web para apresentação de serviços e agendamento de estética automotiva, construída com React, Vite e Firebase.
 
 ## O que valorizo
 

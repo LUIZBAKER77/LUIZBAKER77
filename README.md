@@ -16,7 +16,7 @@ Desenvolvo soluções práticas para automação, educação e gestão de servi�
 
 ## Projeto em destaque
 
-### [Gestor Escolar](https://github.com/LUIZBAKER77/Gestor-escolar)
+### [Gestor Escolar](https://github.com/LUIZBAKER77/Gestor-escolar)](https://github.com/LUIZBAKER77/Gestao-de-Tablets)
 
 Solução para administração e configuração de tablets escolares, com modo aluno, controle administrativo e ferramenta gráfica para Windows.
 
